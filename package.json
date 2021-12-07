@@ -1,0 +1,22 @@
+{
+  "name": "exogamingcampus",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "sass":"sass -w assets/scss:assets/css"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/JordyLR/exogamingcampus.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/JordyLR/exogamingcampus/issues"
+  },
+  "homepage": "https://github.com/JordyLR/exogamingcampus#readme",
+  "dependencies": {
+    "sass": "^1.44.0"
+  }
+}
