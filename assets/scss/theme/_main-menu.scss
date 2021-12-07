@@ -1,0 +1,13 @@
+#m-menu {
+    ul {
+        padding-top: 1em;
+        a {
+            font-size: 0.8rem;
+            padding-top: 1em;
+            &:hover {
+                border-top: 5px solid purple;
+                color: purple;
+            }
+        }
+    }
+}
