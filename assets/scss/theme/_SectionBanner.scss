@@ -1,0 +1,24 @@
+#banner {
+    background-color: #484848;
+    padding: 3em 0 4em;
+
+    .bannerContent {
+        text-align: center;
+        color: white;
+
+        h2 {
+            font-size: 1.2rem;
+            letter-spacing: .2em;
+            padding: 1.2rem 0;
+        }
+
+        a {
+            color: white;
+            font-size: .8rem;
+            border: 1px solid white;
+            padding: 10px 20px;
+            font-family: $Regular;
+
+        }
+    }
+}

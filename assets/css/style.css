@@ -20,4 +20,25 @@ body {
   font-family: "Montserrat Regular";
 }
 
+#banner {
+  background-color: #484848;
+  padding: 3em 0 4em;
+}
+#banner .bannerContent {
+  text-align: center;
+  color: white;
+}
+#banner .bannerContent h2 {
+  font-size: 1.2rem;
+  letter-spacing: 0.2em;
+  padding: 1.2rem 0;
+}
+#banner .bannerContent a {
+  color: white;
+  font-size: 0.8rem;
+  border: 1px solid white;
+  padding: 10px 20px;
+  font-family: "Montserrat Regular";
+}
+
 /*# sourceMappingURL=style.css.map */
