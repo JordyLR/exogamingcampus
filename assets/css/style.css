@@ -41,4 +41,16 @@ body {
   font-family: "Montserrat Regular";
 }
 
+#m-menu ul {
+  padding-top: 1em;
+}
+#m-menu ul a {
+  font-size: 0.8rem;
+  padding-top: 1em;
+}
+#m-menu ul a:hover {
+  border-top: 5px solid purple;
+  color: purple;
+}
+
 /*# sourceMappingURL=style.css.map */
